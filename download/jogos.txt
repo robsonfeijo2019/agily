@@ -1,0 +1,45 @@
+﻿JOGOS;
+CELULAR GRAVAÇÃO:
+
+Data do cadastro: 00/00/0000
+Data do último chamado: 00/00/0000
+Solução:""
+Há "" chamado(s) nos últimos 3 meses ("" Suporte - "" Financeiro)
+
+Qual dispositivo ou console?
+[] XBOX, QUAIS JOGOS:
+[] PLAYSTATION, QUAIS JOGOS:
+[] PC, QUAIS JOGOS:
+[] CELULAR, JOGOS:
+
+Queixa do cliente?
+[] OSCILAÇÃO (QUEDAS)
+[] PING ALTO (LENTIDÃO)
+
+Está se conectando por?
+[] CABO
+[] WIFI
+
+Existe outro repetidor ou roteador na rede?
+[] SIM
+[] NÃO
+
+Horário em que está aparecendo o problema?
+[] MANHÃ
+[] TARDE
+[] NOITE
+[] INTERMINENTE
+
+O problema afeta somente o jogo?
+[] SIM
+[] NÃO
+
+
+IP DO SERVIDOR:
+IP DO CONSOLE:
+
+As rotas foram executadas com sucesso?
+[] SIM
+[] NÃO
+
+OBSERVAÇÃO COMPLEMENTARES:

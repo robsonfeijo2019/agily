@@ -1,0 +1,38 @@
+﻿CONECTADO SEM ACESSO;
+CELULAR GRAVAÇÃO:
+
+Data do cadastro: 00/00/0000
+Data do último chamado: 00/00/0000
+Solução:""
+Há "" chamado(s) nos últimos 3 meses ("" Suporte - "" Financeiro)
+
+* Analise os logs de autenticação.
+
+Algum dispositivo está conectado ao roteador?
+[] SIM,
+[] NÃO, Peça ao cliente para confirmar o nome da rede (SSID) e a senha.
+
+* Solicite para o cliente desliga o roteador e a ONU da tomada enquanto você realiza algumas configurações.
+* Só prossiga com atendimento quando o cliente não estiver mais subindo no MK-Solutions.
+* Zere o MAC e salve as alterações.
+
+Em quais sites e/ou aplicativos foram testados?
+[] Netflix
+[] Google, YouTube e/ ou Instagram
+[] Facebook
+[] Outros, quais:
+
+Foi testado em mais de um dispositivo?
+[] SIM, QUAL:
+[] NÃO
+
+Qual o ping do roteador?
+[] 0 a 5 ms
+[] 6 a 10 ms
+[] timeout
+
+Qual a frequência da ONU?
+[] Abaixo de 27
+[] Acima de 27
+
+OBSERVAÇÃO COMPLEMENTARES:

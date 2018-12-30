@@ -1,0 +1,24 @@
+body {
+    padding: 30px;
+}
+hr {
+    background-color: #df4900;
+}
+h3 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+li {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+span {
+    color: red;
+}
+#marca_texto {
+    background-color: yellow;
+}
+#logo_principal {
+    text-align: center;
+}
+#favoritos {
+    float: right;
+}

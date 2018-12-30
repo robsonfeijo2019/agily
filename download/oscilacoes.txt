@@ -1,0 +1,35 @@
+﻿OSCILAÇÕES;
+CELULAR GRAVAÇÃO:
+
+Data do cadastro: 00/00/0000
+Data do último chamado: 00/00/0000
+Solução:""
+Há "" chamado(s) nos últimos 3 meses ("" Suporte - "" Financeiro)
+
+Quantas quedas houve em um dia?
+[] 1 a 3
+[] 4 a 8
+[] mais de 8
+
+Você certificou-se junto ao cliente se os cabos do roteador e a ONU estão conectados corretamente?
+[] SIM 
+[] NÃO
+[] RECUSOU-SE
+* Caso o cliente se recuse a fazer os procedimentos, informe que haverá o risco de ser cobrado R$20,00 por uma possível visita improdutiva.
+
+* FIBRA: 
+* Cabo da rua na ONU.
+* Cabo da ONU no roteador (entrada wan).
+* Cabo do roteador (entrada lan) nos dispositivos.
+
+* CABO:
+* Cabo da rua na fonte fonte POE (entrada poe).
+* Cabo da fonte POE (entrada wan) no roteador (entrada wan).
+* Cabo do roteador (entrada lan) nos dispositivos. 
+
+Você certificou-se junto ao cliente se os cabos estão conectados e se há algum mal contato na tomada de energia?
+[] SIM 
+[] NÃO
+* Pergunte ao cliente se as luzes do roteador estão acessas (Power, wifi e LAN).
+
+OBSERVAÇÃO COMPLEMENTARES:

@@ -1,0 +1,54 @@
+﻿LENTIDÃO;
+CELULAR GRAVAÇÃO:
+
+Data do cadastro: 00/00/0000
+Data do último chamado: 00/00/0000
+Solução:""
+Há "" chamado(s) nos últimos 3 meses ("" Suporte - "" Financeiro)
+
+Em quais dispositivos a conexão está lenta?
+[] Celular
+[] SmartTV
+[] Notebook
+[] PC
+
+Caso não seja cabeado, qual a distância o dispositivo está do roteador?
+[] Perto, mesmo cômodo 
+[] Médio, outro cômodo
+[] Distante, mais de um cômodo
+
+Quantos dispositivos estão conectados?
+[] 1 a 3
+[] 4 a 6
+[] 6 OU MAIS.
+
+Qual o ping do roteador?
+[] 0 a 5 ms
+[] 6 a 10 ms
+[] timeout
+
+Frequência da ONU?
+[] Abaixo de 27
+[] Acima de 27
+
+Horário da lentidão?
+[] Manhã 
+[] Tarde 
+[] Noite
+[] intermitente
+
+Em quais sites foram testados?
+[] Netflix
+[] Google, YouTube e/ ou Instagram
+[] Facebook
+[] Outros, quais:
+
+A banda está passando:
+[] 25%
+[] 50%
+[] 75%
+[] 100%
+* Caso a banda esteja passando, teste em outro dispositivo.
+* Se continuar passando a banda e o cliente se queixar de lentidão, informe sobre a possibilidade de cobrança da taxa de R$20,00.
+
+OBSERVAÇÃO COMPLEMENTARES:

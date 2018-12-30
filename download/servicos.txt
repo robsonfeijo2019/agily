@@ -1,0 +1,18 @@
+﻿SERVIÇOS;
+CELULAR GRAVAÇÃO:
+
+Data do cadastro: 00/00/0000
+Data do último chamado: 00/00/0000
+Solução:""
+Há "" chamado(s) nos últimos 3 meses ("" Suporte - "" Financeiro)
+
+[] MUDAR ROTEADOR DE LOCAL
+[] SUBSTITUIR ROTEADOR
+[] TROCAR FIAÇÃO INTERNA
+[] TROCAR FIAÇÃO EXTERNA
+[] CABEAR DISPOSITIVO
+[] ROTEADOR RESETADO
+
+TAXA: R$ 000,00
+
+OBSERVAÇÃO COMPLEMENTARES:

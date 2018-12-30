@@ -1,0 +1,40 @@
+﻿SEM ACESSO;
+CELULAR GRAVAÇÃO:
+
+Data do cadastro: 00/00/0000
+Data do último chamado: 00/00/0000
+Solução:""
+Há "" chamado(s) nos últimos 3 meses ("" Suporte - "" Financeiro)
+
+O cliente está subindo no MK-Solutions?
+[] SIM 
+[] NÃO
+
+Você certificou-se junto ao cliente se os cabos do roteador e a ONU estão conectados corretamente?
+[] SIM 
+[] NÃO
+[] RECUSOU-SE
+* Caso o cliente se recuse a fazer os procedimentos, informe que haverá o risco de ser cobrado R$20,00 por uma possível visita improdutiva.
+
+* FIBRA: 
+* Cabo da rua na ONU.
+* Cabo da ONU no roteador (entrada WAN).
+* Cabo do roteador (entrada LAN) nos dispositivos.
+
+* CABO:
+* Cabo da rua na fonte fonte POE (entrada POE).
+* Cabo da fonte POE (entrada LAN) no roteador (entrada WAN).
+* Cabo do roteador (entrada LAN) nos dispositivos (SmartTV, Vídeo-Game, PC e/ou Notebook). 
+
+Você certificou-se junto ao cliente se os cabos de força (fonte) estão conectados e se não há algum mal contato na tomada de energia?
+[] SIM 
+[] NÃO
+* Pergunte ao cliente se as luzes do roteador estão acessas (Power, wifi e LAN).
+
+Em relação as luzes da ONU, há alguma vermelha:
+[] SIM
+[] NÃO
+* Solicite para o cliente desliga os equipamentos da tomada enquanto você abre o chamado para enviar o técnico.
+* Peça ao cliente para ligar novamente os equipamentos na tomada e faça uma última verificação para saber se sua conexão voltou.
+
+OBSERVAÇÃO COMPLEMENTARES:
